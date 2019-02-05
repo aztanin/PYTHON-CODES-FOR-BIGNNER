@@ -15,4 +15,4 @@ class Account(Education, Hobby):
 account = Account()
 account.Meta("Dhaka, Bangladesh")
 account.Degree("B.Sc")
-account.MyHobby("I've any hobby")
+account.MyHobby("I've not any hobby")
