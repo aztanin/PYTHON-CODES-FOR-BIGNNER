@@ -5,4 +5,4 @@ class Account:
         print(address)
 
 account = Account()
-account.Meta("CHA 119/1, North Badda, Dhaka 1212")
+account.Meta("Dhaka, Bangladesh")
