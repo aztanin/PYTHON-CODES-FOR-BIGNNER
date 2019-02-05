@@ -16,3 +16,8 @@ account = Account()
 account.Meta("Dhaka, Bangladesh")
 account.Degree("B.Sc")
 account.MyHobby("I've not any hobby")
+
+# I'm self method
+# Dhaka, Bangladesh
+# B.Sc
+# I've not any hobby

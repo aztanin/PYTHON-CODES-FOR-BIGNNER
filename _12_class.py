@@ -6,3 +6,6 @@ class Account:
 
 account = Account()
 account.Meta("Dhaka, Bangladesh")
+
+# I'm self method
+# Dhaka, Bangladesh
