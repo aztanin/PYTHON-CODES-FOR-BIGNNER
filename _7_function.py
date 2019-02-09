@@ -21,7 +21,7 @@ def MyFunc5():
 MyFunc()
 MyFunc1(10)
 MyFunc2(10)
-MyFunc3(10)
+MyFunc3(1000)
 MyFunc4(10)
 MyFunc5()
 
